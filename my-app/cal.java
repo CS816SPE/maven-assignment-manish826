@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class caladd{
+ public class cal{
    public static void main(String args[]){
    float a,b,res;
    char choice,ch;
